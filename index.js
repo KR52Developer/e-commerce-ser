@@ -18,14 +18,7 @@ const app = express();
 const PORT = process.env.PORT;
 const CONNECTION_URL = process.env.CONNECTION_URL;
 
-// This will add mongoose and dotenv to your project’s node_modules directory and list them as dependencies in your package.json file.
 
-// mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
-// It provides a straightforward, schema - based solution to model your application data and includes
-// built -in type casting, validation, query building, business logic hooks and more, out of the box.
-
-// dotenv is a zero - dependency module that loads environment variables from a.env file into process.env.
-// Storing configuration in the environment separate from code is based on The Twelve - Factor App methodology.
 
 
 
